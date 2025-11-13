@@ -1,7 +1,6 @@
 # Hi, I'm Tiago!
 
 - 🎓 PhD Student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/)
-- 💼 Currently working at [Instituto Nacional de Estatística](https://www.ine.pt/)
 - 🌍 I am interested in geospatial analysis and data science, exploring applications in environmental monitoring and satellite data.  
 
 ---
