@@ -16,9 +16,6 @@
 
 ---
 
-## 🖥️ Top Languages
-<!-- Minimal GitHub stats: only languages, compact -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoamadeu&layout=compact&theme=radical&hide_border=true)
 
 
 
