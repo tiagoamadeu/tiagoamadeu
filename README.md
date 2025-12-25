@@ -1,7 +1,7 @@
 # Hi, I'm Tiago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
 <!-- 🎓 PhD Student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/) -->
-- 🌍 researcher on geospatial analysis and data science applied to satellite data.  
+- 🌍 Researcher on geospatial analysis and data science applied to satellite data.  
 
 ---
 
