@@ -1,6 +1,6 @@
 # Hi, I'm Tiago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
-<!- 🎓 PhD Student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/) -->
+<!-- 🎓 PhD Student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/) -->
 - 🌍 researcher on geospatial analysis and data science applied to satellite data.  
 
 ---
@@ -13,6 +13,7 @@
 - [Deep Learning](https://tecnicomais.pt/categoria-cursos/curso-especializacao/)
 - [Management for Engineers](https://tecnicomais.pt/cursos/gestao-para-engenheiros-remoto/)
 - [Business Intelligence and Advanced Data Analytics](https://tecnicomais.pt/cursos/business-intelligence-e-analitica-avancada-de-dados/)
+
 
 ---
 
