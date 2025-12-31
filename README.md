@@ -13,7 +13,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-%23139C5A.svg?style=for-the-badge&logo=geopandas&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-%23003243.svg?style=for-the-badge&logo=gdal&logoColor=white)
 
 ---
 
